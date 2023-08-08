@@ -77,8 +77,8 @@
 
 ### 📸 〢 Screenshots
 
-<img title="" src="https://media.discordapp.net/attachments/1138224584890535936/1138480171029115010/image.png?width=1405&height=670" alt="" width="539">
-<img title="" src="https://media.discordapp.net/attachments/1138224584890535936/1138480177819693106/image.png?width=556&height=670" alt="" width="539">
+<img title="" src="https://media.discordapp.net/attachments/1138474844430794804/1138496506308083762/image.png?width=1363&height=670" alt="" width="539">
+<img title="" src="https://media.discordapp.net/attachments/1138474844430794804/1138496706065989693/image.png?width=592&height=670" alt="" width="539">
 
 <a id="todo"></a>
 
