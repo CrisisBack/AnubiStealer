@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1138224584890535936/1138475178905583756/nasa-logo-web-rgb.png?width=1340&height=670" width="328"></img>
+<img src="https://media.discordapp.net/attachments/1138474844430794804/1138486981265985536/photo_2023-08-08_07-45-54.png?width=670&height=670" width="328"></img>
   </kbd>
 </p>
 
