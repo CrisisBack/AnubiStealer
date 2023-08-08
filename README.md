@@ -16,10 +16,6 @@
   Telegram server: https://t.me/+GPyjqmXDMPw2N2Ex
  </p>
 <br>
- <p align="center">
-  🔑 Gen you Licence Key Here: https://keyauth.win/api/seller/?sellerkey=f40de17d3d4db9a0684c69c02dab6cc8&type=add&expiry=1&mask=******-******-******-******-******-******&level=1&amount=1&format=text
- </p>
-
 ---
 
 ### ⚔️ 〢 Features
