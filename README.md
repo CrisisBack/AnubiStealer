@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/+GPyjqmXDMPw2N2Ex
+  Telegram server: https://t.me/AnubiStealerX
  </p>
 <br>
 ---
